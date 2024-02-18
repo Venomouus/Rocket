@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Rocket",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
